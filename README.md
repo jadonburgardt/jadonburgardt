@@ -1,4 +1,4 @@
-Hi, I'm Jadon!
+# Hi, I'm Jadon!
 🐍 I’m currently working on Python Projects!<br><br>🚀 I’m currently learning React and Tailwind!<br><br>👨‍💻 All of my projects are available at https://portfolio-jadon.netlify.app/<br><br>📫 How to reach me: burgardtjad@gmail.com<br><br>📄 Know about my experiences: https://www.linkedin.com/in/jadonburgardt/
 
 

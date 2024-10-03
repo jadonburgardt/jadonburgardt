@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jadon!</h1>
 <h3 align="center">About Me</h3>
 
-- 🐍 I’m currently working on **Python Projects!**
+- 🐍 I’m currently working on **a Web Scraping project in Python!**
 
 - 🚀 I’m currently learning **React and Tailwind!**
 

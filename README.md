@@ -5,7 +5,7 @@
 
 - 🚀 I’m currently learning **React and Tailwind!**
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-jadon.netlify.app/" target="_blank">https://portfolio-jadon.netlify.app/</a>
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-jadon.netlify.app/" target="_blank">https://portfolio-jadonb.netlify.app/</a>
 
 - 📫 How to reach me: **burgardtjad@gmail.com**
 

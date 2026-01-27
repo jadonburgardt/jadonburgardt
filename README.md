@@ -6,7 +6,7 @@
 
 ✔️ Know about my experiences: <a href="https://www.linkedin.com/in/jadonburgardt/" target="_blank">https://www.linkedin.com/in/jadonburgardt/</a>
 
-<h3 align="left">✔️ Connect with me:</h3> <a href="https://www.linkedin.com/in/jadonburgardt/" target="_blank">https://www.linkedin.com/in/jadonburgardt/</a>
+<h3 align="left">✔️ Connect with me: <a href="https://www.linkedin.com/in/jadonburgardt/" target="_blank">https://www.linkedin.com/in/jadonburgardt/</a></h3>
 <!-- <p align="left">
 <a href="https://linkedin.com/in/jadonburgardt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jadonburgardt" height="30" width="40" /></a>
 </p> -->

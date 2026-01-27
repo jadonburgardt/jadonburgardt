@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Jadon!</h1>
-<h3 align="center">About Me</h3>
 
-- ✔️ All of my projects are available at <a href="https://portfolio-jadon.netlify.app/" target="_blank">https://portfolio-jadonb.netlify.app/</a>
+✔️ All of my projects are available at <a href="https://portfolio-jadon.netlify.app/" target="_blank">https://portfolio-jadonb.netlify.app/</a>
 
-- ✔️ How to reach me: **burgardtjad@gmail.com**
+✔️ How to reach me: **burgardtjad@gmail.com**
 
-- ✔️ Know about my experiences: <a href="https://www.linkedin.com/in/jadonburgardt/" target="_blank">https://www.linkedin.com/in/jadonburgardt/</a>
+✔️ Know about my experiences: <a href="https://www.linkedin.com/in/jadonburgardt/" target="_blank">https://www.linkedin.com/in/jadonburgardt/</a>
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
+<h3 align="left">✔️ Connect with me:</h3> <a href="https://www.linkedin.com/in/jadonburgardt/" target="_blank">https://www.linkedin.com/in/jadonburgardt/</a>
+<!-- <p align="left">
 <a href="https://linkedin.com/in/jadonburgardt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jadonburgardt" height="30" width="40" /></a>
-</p>
+</p> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jadonburgardt&icon=1&color=0)](https://visitcount.itsvg.in)

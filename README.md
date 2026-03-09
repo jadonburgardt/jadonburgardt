@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jadon!</h1>
 
-✔️ All of my projects are available at <a href="jadonburgardt.com" target="_blank">jadonburgardt.com</a>
+✔️ All of my projects are available at <a href="[jadonburgardt.com](https://jadonburgardt.com/)" target="_blank">jadonburgardt.com</a>
 
 ✔️ How to reach me: **burgardtjad@gmail.com**
 
